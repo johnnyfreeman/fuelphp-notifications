@@ -1,3 +1,0 @@
-h1. Fuel Notifications
-
-It allows you to set a message for the current request or you can make it be available on the next request (for when you want to set a notification and then redirect to another page).
